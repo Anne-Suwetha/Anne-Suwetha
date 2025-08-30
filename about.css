@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url('bgimg2.avif'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 25px;
+    color:#550303;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: default;
+}
+
+.navbar a {
+    font-size: 18px;
+    color: #550303;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: rgb(232, 11, 11);
+}
+
+.about{
+    width: 100%;
+    padding: 78px 0px;
+   background-color: #e0bcc4;
+}
+
+.about img{
+    height: auto;
+    width: 420px;
+    display: inline-flex;
+    background: transparent;
+    border: 7px solid rgb(142, 4, 4);
+    border-radius: 50%;
+    margin: 30px 15px 30px 0;
+}
+
+.about-text{
+    width: 550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h1{
+    color: #550303;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-text h1 span{
+    color: rgb(142, 4, 4);
+}
+
+.about-text h3{
+    color: #550303;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.about-text h5{
+    color: #550303;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+}
+
+.about-text h5 span{
+    color: rgb(142, 4, 4);
+}
+
+
+.about-text p{
+    color: #550303;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.btn{
+    display: inline-block;
+    padding: 12px 28px;
+    background: rgb(142, 4, 4);
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgb(142, 4, 4);
+    font-size: 16px;
+    color: #e0bcc4;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0px 15px 30px 0;
+    transition: 0.2ms;
+}
+
+.btn:hover{
+    background: transparent;
+    border: 2px solid rgb(142, 4, 4);
+    cursor: pointer;
+    color: #550303;
+}
