@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Anne Suwetha Michal Charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anne Suwetha Michal Charles" height="30" width="40" /></a>
-<a href="https://fb.com/Suwetha Suwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Suwetha Suwe" height="30" width="40" /></a>
-<a href="https://instagram.com/anne_suwetha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anne_suwetha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Anne Suwetha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Anne Suwetha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anne-suwetha-michal-charles-122795292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anne Suwetha Michal Charles" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1BCWvw6nZQ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Suwetha Suwe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anne_suwetha?igsh=Ynd5c2dzcGpid2Nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anne_suwetha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@suwethaanne7625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Anne Suwetha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
